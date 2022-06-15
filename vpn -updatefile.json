@@ -1,13 +1,17 @@
 {
    "files": [   
 {
-         "name": "01.TH-Normal",
-         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_Normal.ovpn"
+         "name": "01.MM-Test Server",
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/mm-nyt.prod.surfshark.com_udp.ovpn"
       },
 {
-         "name": "02.TH-DtacNoPro",
+         "name": "02.UK-Test Server",
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacNoPro.ovpn"
       },
+{
+         "name": "02.SG-Test Server",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacNoPro.ovpn"
+      }
 
 
 

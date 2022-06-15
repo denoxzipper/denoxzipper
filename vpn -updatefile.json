@@ -1,0 +1,27 @@
+{
+   "files": [   
+{
+         "name": "01.TH-Normal",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_Normal.ovpn"
+      },
+{
+         "name": "02.TH-DtacNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacNoPro.ovpn"
+      },
+
+
+
+   
+
+
+
+
+
+
+
+      
+   ],
+"message":"What's new \nAdded new TH server",
+   "title":"Do you want to update ?" ,
+   "version": 1
+}

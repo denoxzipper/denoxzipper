@@ -1,12 +1,15 @@
 {
    "files": [   
 {
-         "name": "01.MM-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/sshocean-rioyi9999_sg03-tcp%20(1).ovpn"
+         "name": "01.GCP-Test Server",
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/client.ovpn"
+      },
+      {
+         "name": "01.GCP-Test Server",
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/zzzzz.ovpn"
       }
-      
    ],
-"message":"What's new \nNew Version Test",
+"message":"What's new \nGCP Test",
    "title":"Update?" ,
-   "version": 6
+   "version": 7
 }

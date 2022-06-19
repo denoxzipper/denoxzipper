@@ -3,16 +3,7 @@
 {
          "name": "01.MM-Test Server",
          "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/sshocean-rioyi9999_sg03-tcp%20(1).ovpn"
-      },
-{
-         "name": "02.UK-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/sshocean-rioyi9999_sg03-tcp%20(1).ovpn"
-      },
-{
-         "name": "03.SG-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/sshocean-rioyi9999_sg03-tcp%20(1).ovpn"
       }
-
       
    ],
 "message":"What's new \nNew Version Test",

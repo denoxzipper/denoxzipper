@@ -5,11 +5,11 @@
          "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/client.ovpn"
       },
       {
-         "name": "01.GCP-Test Server",
+         "name": "02.GCP- Taipei Test Server",
          "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/zzzzz.ovpn"
       }
    ],
 "message":"What's new \nGCP Test",
-   "title":"Update?" ,
-   "version": 7
+   "title":"Update???" ,
+   "version": 8
 }

@@ -2,20 +2,20 @@
    "files": [   
 {
          "name": "01.MM-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/mm-nyt.prod.surfshark.com_udp.ovpn"
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/SG-HS.tcpvpn.com-443.ovpn"
       },
 {
          "name": "02.UK-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/uk-lon-st003.prod.surfshark.com_udp.ovpn"
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/SG-HS.tcpvpn.com-443.ovpn"
       },
 {
          "name": "03.SG-Test Server",
-         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/sg-sng-mp001.prod.surfshark.com_tcp.ovpn"
+         "url": "https://raw.githubusercontent.com/denoxzipper/denoxzipper/main/SG-HS.tcpvpn.com-443.ovpn"
       }
 
       
    ],
-"message":"What's new \nAdd MM,SG,UK Server",
+"message":"What's new \nNew Test",
    "title":"Do you want to update ?" ,
-   "version": 1
+   "version": 2
 }
